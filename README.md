@@ -2,10 +2,7 @@
 
 1. Array 
 2. LinkedList
-<<<<<<< HEAD
-3. Sorting Algorithms
+3. Queue and Stack
+4. Sorting Algorithms
     . BubbleSort
     . InsertionSort
-=======
-3. Queue and Stack
->>>>>>> refs/remotes/origin/master
