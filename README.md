@@ -6,3 +6,6 @@
 4. Sorting Algorithms
     . BubbleSort
     . InsertionSort
+    . MergeSort
+    . QuickSort
+    . SelectionSort
